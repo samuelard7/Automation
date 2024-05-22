@@ -1,4 +1,4 @@
-# Automation
+# Web Scraping
 
 includes 
 Selenium, Beautiful Soup, time and requests modules.
